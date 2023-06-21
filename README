@@ -1,0 +1,4 @@
+Pod
+- new IP address everytime pod dies
+so Service is used
+- pods communicate with each other using a service 
