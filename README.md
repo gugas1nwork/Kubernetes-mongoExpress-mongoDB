@@ -11,3 +11,4 @@ Pods communicate with each other with service
 <img width="940" alt="Ingress" src="https://user-images.githubusercontent.com/81834520/247373939-bd65c60f-d546-4392-a36d-54783f7963cb.png">
 
 <img width="862" alt="Screen Shot 2023-06-20 at 10 44 50 PM" src="https://github.com/leiliangmichelle/Kubernetes-mongoExpress-mongoDB/assets/81834520/fc218f64-8579-4e51-86f8-da15cd3226b0">
+Request --> Ingress --> service
