@@ -1,7 +1,6 @@
-![](ingress.png)
-<img width="843" alt="Ingress" src="https://github.com/leiliangmichelle/Kubernetes-mongoExpress-mongoDB/assets/81834520/bd65c60f-d546-4392-a36d-54783f7963cb">
+![CHEESE!](Ingress.png)
 
-#Pod
-# new IP address everytime pod dies
-# so Service is used
-# pods communicate with each other using a service 
+Pod
+ new IP address everytime pod dies
+ so Service is used
+ pods communicate with each other using a service 
