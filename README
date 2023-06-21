@@ -2,4 +2,6 @@ Pod
 - new IP address everytime pod dies
 so Service is used
 - pods communicate with each other using a service 
+![Screenshot](Ingress.png)
 ![alt text](https://github.com/leiliangmichelle/Kubernetes-mongoExpress-mongoDB/blob/master/pic/Ingress.png?raw=true)
+/Users/leiliang/self-practice/k8s/Kubernetes-mongoExpress-mongoDB/pics/Ingress.png
