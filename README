@@ -3,6 +3,4 @@ Pod
 so Service is used
 - pods communicate with each other using a service 
 <img width="843" alt="Ingress" src="https://github.com/leiliangmichelle/Kubernetes-mongoExpress-mongoDB/assets/81834520/bd65c60f-d546-4392-a36d-54783f7963cb">
-![Screenshot](Ingress.png)
-![alt text](https://github.com/leiliangmichelle/Kubernetes-mongoExpress-mongoDB/blob/master/pic/Ingress.png?raw=true)
-/Users/leiliang/self-practice/k8s/Kubernetes-mongoExpress-mongoDB/pics/Ingress.png
+
