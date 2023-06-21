@@ -1,6 +1,3 @@
-![CHEESE!](Ingress.png)
+![why](Ingress.png)
 
-Pod
- new IP address everytime pod dies
- so Service is used
- pods communicate with each other using a service 
+
